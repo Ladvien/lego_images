@@ -1,6 +1,10 @@
 # lego_images
 Unprocessed images generated for training a CNN to classify LEGO parts.
 
+If you need processed images, they can be found at:
+
+https://github.com/Ladvien/lego_images
+
 These images will be used in the following project:
 [Building a CNN LEGO Classifier](https://ladvien.com/lego-deep-learning-classifier/)
 
